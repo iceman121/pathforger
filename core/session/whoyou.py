@@ -55,4 +55,4 @@ def ask():
 
     # Save game
     toon.save()
-    return name
+    return toon

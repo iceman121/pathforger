@@ -2,3 +2,4 @@
 /core/**/__pychache__
 *.pyc
 *.pickle
+/assets/story/

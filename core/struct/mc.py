@@ -6,7 +6,7 @@ class MainCharacter:
         """
         Class to hold character information
         """
-        # Main character attributes
+        # Main character id
         self.name = None
         self.p1 = None
         self.p1_is = None

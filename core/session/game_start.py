@@ -115,4 +115,4 @@ def load_game():
     print(f'Your pronouns are {toon.p1}/{toon.p2}/{toon.p3}')
     print()
 
-    return toon.name
+    return toon

@@ -10,10 +10,14 @@ def main():
     :return:
     """
     # Start main screen
-    start, choice = main_scr()
+    start, toon = main_scr()
+
+    # Start the narrative
     if int(start) == 1:
-        story_start()
+        # New story
+        story_start(toon)
     else:
+        # Load story
         pass
 
 
