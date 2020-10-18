@@ -3,7 +3,7 @@ This is a text-based game based in the world of [Will Wight's Cradle series](htt
 
 
 ## Before playing-
-1. Download and install anaconda from [here](anaconda.com/downloads)
+1. Download and install anaconda from [here](https://www.anaconda.com/products/individual)
 2. Create conda environment using ```conda create --name pathforger python=3.8```
 3. Activate the environment with ```conda activate pathforger```
 
