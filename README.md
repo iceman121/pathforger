@@ -1,4 +1,6 @@
 # Pathforger-
+![Main menu screenshot](assets/pictures/Pathforger.png)
+
 This is a text-based game based in the world of [Will Wight's Cradle series](https://www.amazon.com/dp/B0753FP6SP?searchxofy=true&ref_=dbs_s_aps_series_rwt).
 
 
